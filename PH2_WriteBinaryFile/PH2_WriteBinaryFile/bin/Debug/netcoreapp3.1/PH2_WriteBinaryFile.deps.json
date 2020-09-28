@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PH2_WriteBinaryFile/1.0.0": {
+        "runtime": {
+          "PH2_WriteBinaryFile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PH2_WriteBinaryFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

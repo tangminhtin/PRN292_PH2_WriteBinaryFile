@@ -1,0 +1,13 @@
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.exe
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.deps.json
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.runtimeconfig.json
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.runtimeconfig.dev.json
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.dll
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\bin\Debug\netcoreapp3.1\PH2_WriteBinaryFile.pdb
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.csprojAssemblyReference.cache
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.AssemblyInfoInputs.cache
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.AssemblyInfo.cs
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.dll
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.pdb
+C:\Users\tangminhtin\Desktop\PH2_WriteBinaryFile\PH2_WriteBinaryFile\obj\Debug\netcoreapp3.1\PH2_WriteBinaryFile.genruntimeconfig.cache
